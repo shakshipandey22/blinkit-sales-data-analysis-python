@@ -103,7 +103,7 @@ Location-based differences reveal potential regional strategy insights.
 
 Clone the repository:
 
-git clone https://github.com/shakshipandey22/blinkit-sales-analysis.git
+git clone https://github.com/shakshipandey22/blinkit-sales-data-analysis-python
 
 Install dependencies:
 
