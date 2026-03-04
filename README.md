@@ -52,12 +52,19 @@ Jupyter Notebook
 
 blinkit-sales-analysis/
 │
-├── data/                # Dataset files
-├── notebook/            # Jupyter Notebook
-├── images/              # Saved visualizations
+├── data/
+│   └── blinkit_data.csv
+│
+├── notebook/
+│   └── blinkit_analysis.ipynb
+│
+├── images/
+│   ├── 1_total_sales_by_fat_content.png
+│   ├── 2_sales_by_item_type.png
+│   └── ...
+│
 ├── README.md
 └── requirements.txt
-
 
 🔍 Key Insights
 
