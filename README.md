@@ -1,5 +1,6 @@
 🏪 Blinkit Sales Data Analysis 
 
+
 📌 Project Overview
 
 This project performs a comprehensive end-to-end data analysis of Blinkit's retail sales dataset using Python.
@@ -7,6 +8,7 @@ This project performs a comprehensive end-to-end data analysis of Blinkit's reta
 The objective is to analyze sales performance, customer preferences, and outlet distribution to uncover actionable business insights using key KPIs and visualizations.
 
 The analysis covers sales trends, product segmentation, outlet performance, and location-based insights.
+
 
 
 🎯 Business Objectives
@@ -24,6 +26,7 @@ Assess correlation between outlet size and revenue.
 Study geographic distribution of outlet sales.
 
 
+
 📊 Key Performance Indicators (KPIs)
 
 Total Sales – Overall revenue generated
@@ -33,6 +36,7 @@ Average Sales – Average revenue per item
 Number of Items Sold – Product count performance
 
 Average Rating – Customer satisfaction indicator
+
 
 
 📈 Visualizations Included
@@ -52,6 +56,7 @@ Average Rating – Customer satisfaction indicator
 6	Sales by Outlet Location	Bar Chart
 
 
+
 🖼️ Sample Visualizations
 
 🔹 Total Sales by Fat Content
@@ -61,6 +66,7 @@ Average Rating – Customer satisfaction indicator
 🔹 Sales by Outlet Establishment
 
 (All charts available inside the images/ folder.)
+
 
 🛠️ Tools & Technologies Used
 
@@ -77,6 +83,7 @@ Seaborn
 Jupyter Notebook
 
 
+
 🔍 Key Insights
 
 
@@ -91,6 +98,7 @@ Fat content segmentation shows measurable variation in sales behavior.
 Location-based differences reveal potential regional strategy insights.
 
 
+
 🚀 How to Run This Project
 
 Clone the repository:
@@ -103,6 +111,7 @@ pip install -r requirements.txt
 
 Open Jupyter Notebook and run all cells.
 
+
 📌 Future Improvements
 
 Build interactive dashboard using Streamlit
@@ -112,6 +121,7 @@ Deploy project on web
 Add advanced statistical analysis
 
 Integrate Power BI dashboard version
+
 
 👤 Author
 
