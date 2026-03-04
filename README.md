@@ -10,6 +10,72 @@ The objective is to analyze sales performance, customer preferences, and outlet 
 The analysis covers sales trends, product segmentation, outlet performance, and location-based insights.
 
 
+🔹 KPI’s Requirements
+
+What is the Total Sales?
+
+→ The overall revenue generated from all items sold.
+
+What is the Average Sales?
+
+→ The average revenue per sale.
+
+What is the Number of Items Sold?
+
+→ The total count of different items sold.
+
+What is the Average Rating?
+
+→ The average customer rating for items sold.
+
+
+🔹 Chart’s Requirements 
+
+What are the Total Sales by Fat Content?
+
+
+Analyze the impact of fat content on total sales.
+
+
+Assess how Average Sales, Number of Items, and Average Rating vary with fat content.
+
+
+What are the Total Sales by Item Type?
+
+
+Identify performance of different item types in terms of total sales.
+
+
+Assess KPI variation across item types.
+
+
+What is the Fat Content by Outlet for Total Sales?
+
+
+Compare total sales across different outlets segmented by fat content.
+
+
+Assess KPI variation by fat content per outlet.
+
+
+What are the Total Sales by Outlet Establishment ?
+
+
+Evaluate how the age or type of outlet establishment influences total sales.
+
+
+What are the Sales by Outlet Size?
+
+
+Analyze correlation between outlet size and total sales.
+
+
+What are the Sales by Outlet Location?
+
+
+Assess the geographic distribution of sales across different locations.
+
+
 
 🎯 Business Objectives
 
