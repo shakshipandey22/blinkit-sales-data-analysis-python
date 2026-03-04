@@ -48,24 +48,6 @@ Matplotlib
 Seaborn
 Jupyter Notebook
 
-📂 Project Structure
-
-blinkit-sales-analysis/
-│
-├── data/
-│   └── blinkit_data.csv
-│
-├── notebook/
-│   └── blinkit_analysis.ipynb
-│
-├── images/
-│   ├── 1_total_sales_by_fat_content.png
-│   ├── 2_sales_by_item_type.png
-│   └── ...
-│
-├── README.md
-└── requirements.txt
-
 🔍 Key Insights
 
 Certain item types contribute significantly higher revenue.
